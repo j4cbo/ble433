@@ -11469,7 +11469,7 @@ Jason Wright (jpwright), last updated 2/11/14</description>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
 <part name="R3" library="rcl" deviceset="R-US_" device="R0402" value="56kOhm ± 1%"/>
 <part name="GND17" library="supply1" deviceset="GND" device=""/>
-<part name="C9" library="rcl" deviceset="C-EU" device="C0402K" value="1uF"/>
+<part name="C9" library="rcl" deviceset="C-EU" device="C0402" value="1uF"/>
 <part name="GND18" library="supply1" deviceset="GND" device=""/>
 <part name="IC1" library="parts" deviceset="0915BM15A0001" device="" value="0915BM15A0001E"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
